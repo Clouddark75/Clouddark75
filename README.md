@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### Visit count (since 27 October 2025):
 ![](https://komarev.com/ghpvc/?username=Clouddark75&style=flat-square)
